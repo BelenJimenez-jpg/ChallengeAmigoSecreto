@@ -55,7 +55,7 @@ amigo-secreto/
 
 ### 🔗 En línea  
 El proyecto está disponible en GitHub Pages aquí 👉  
-**[Amigo Secreto – Jugar ahora](https://belenjimenez-jpg.github.io/Amigo-Secreto/)**  
+**[Amigo Secreto – Jugar ahora](https://belenjimenez-jpg.github.io/ChallengeAmigoSecreto/)**  
 
 ### 💻 Localmente  
 1. Clona el repositorio:  
